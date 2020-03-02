@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="futiletest" name="futiletest">303d70712f934010ede4dcb6f699b63e</contains>
+        <role display_value="activity_creator" name="activity_creator">6ada344037803100b2cf04368e41f1cc</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-02 15:19:17</sys_created_on>
+        <sys_id>743d70712f934010ede4dcb6f699b64a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>futiletest.activity_creator</sys_name>
+        <sys_package display_value="FutileTest" source="x_297350_futile">41cc74f12f1f0010ede4dcb6f699b61c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FutileTest">41cc74f12f1f0010ede4dcb6f699b61c</sys_scope>
+        <sys_update_name>sys_user_role_contains_743d70712f934010ede4dcb6f699b64a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-02 15:19:17</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
